@@ -16,12 +16,12 @@ something like this.
 
 Here's what the various symbols mean.
 
-  - = issue to be resolved
-  x = issue is resolved, ready for checking and removal
-  + = issue on hold or waiting on someone
-  ? = issue is questionable (not sure or not clear)
-  % = issue is too big, it should be broken down into multiple smaller issues
-  ! = issue is urgent
+  - = to be resolved
+  x = resolved, ready for checking and removal
+  + = on hold or waiting on someone
+  ? = questionable, possibly unnecessary
+  % = too big, should be broken down into multiple smaller issues
+  ! = urgent
 
 To install this bundle, just download and double click the bundle. Or 
 use a tool like GetBundles.
