@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Key
+- = issue to be resolved
+x = issue is resolved, ready for checking and removal
++ = issue on hold or waiting on someone
+? = issue is questionable (not sure or not clear)
+% = issue is too big, it should be broken down into multiple smaller issues
+! = issue is urgent
+</string>
+	<key>name</key>
+	<string>key</string>
+	<key>scope</key>
+	<string>text.todo</string>
+	<key>tabTrigger</key>
+	<string>key</string>
+	<key>uuid</key>
+	<string>FDD37672-8F9C-4061-862F-06829EE3A861</string>
+</dict>
+</plist>
