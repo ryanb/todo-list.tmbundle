@@ -1,0 +1,30 @@
+TODO List TextMate Bundle
+-------------------------
+
+I like to keep my todo lists very simple and this bundle helps me do 
+so. Usually it's just a TODO file at the root of my project which looks 
+something like this.
+
+  Widget Factory - the ultimate widget maker
+  - design widgets
+  - print blueprint
+  ? create molding
+  % make widget
+  x design advertisement
+  - design website
+  ! get rich
+
+Here's what the various symbols mean.
+
+  - = issue to be resolved
+  x = issue is resolved, ready for checking and removal
+  + = issue on hold or waiting on someone
+  ? = issue is questionable (not sure or not clear)
+  % = issue is too big, it should be broken down into multiple smaller issues
+  ! = issue is urgent
+
+To install this bundle, just download and double click the bundle. Or 
+use a tool like GetBundles.
+
+See the Railscasts theme for syntax highlighting.
+http://github.com/ryanb/textmate-themes
